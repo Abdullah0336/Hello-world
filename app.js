@@ -1,2 +1,2 @@
 
-console.log("MUHAMMAD ARIYAN");
+console.log("Hello world");
